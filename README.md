@@ -39,7 +39,7 @@ git commit -m "Git start"
 ~~~ 
 git log
 ~~~
-* --oneline - более компактный вид*
+*--oneline - более компактный вид*
 
 Отмена последнего commit 
 
@@ -61,7 +61,9 @@ git push -u origin master
 ~~~ 
 git remote add origin {url remote repository}
 ~~~
-*Где origin это просто переменная с адресом удалённого репозитория, можно называть как угодно
+*Где origin это просто переменная с адресом удалённого репозитория, можно называть как угодно. Также можем привязать несколько репозиториев.
+
+![](https://thumb.cloud.mail.ru/weblink/thumb/xw1/rzGc/FDFW6YDfs)
 
 Посмотреть все ветки
 
