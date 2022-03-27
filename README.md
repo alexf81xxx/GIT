@@ -96,7 +96,7 @@ git remote -v
 ~~~ 
 git branch {branch name}
 ~~~
-*Нэйминг также важен, например feature/addPayment.*
+*Нэйминг также важен, например feature/addPayment. Второй пример (hotfix/task155) - исправление ошибки + номер таска в Notion *
 
 Посмотреть список веток
 
