@@ -116,6 +116,12 @@ git branch (-a)
 git checkout
 ~~~
 
+Отправить ветку в удалённый репозиторий
+
+~~~ 
+git push origin {branch name}
+~~~
+
 Удалить ветку
 
 ~~~ 
